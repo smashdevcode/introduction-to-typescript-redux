@@ -1,1 +1,7 @@
-# introduction-to-typescript-redux
+
+# Introduction to TypeScript Redux
+
+## Presentation Slides
+
+Deckset (see [http://www.decksetapp.com/](http://www.decksetapp.com/)) was used
+to create the presentation slides from the presentation.md markdown file.
