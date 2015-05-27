@@ -10,40 +10,24 @@ JavaScript Admirers Presentation
 Split apart language overview into separate files???
     If yes... then update the index.html file with additional includes
 
-
-
-
-Do the language (or some part of it) first???
-
-Update introduction slides
-	Then and Now
-		Then - There were 3... TS, AtScript, and Flow
-		Now - Google is now using TS to build AngularJS 2
-	TS vs Flow
-		Flow looks great
-		See Jesse's presentation
-		Not trying to suggest that TS is better than Flow
-		For some Flow will be a better choice than TS (or vice versa)
-
 Review language overview code examples
 	How much is the right amount of content???
+
+
+
 
 Include preview of Visual Studio Code???
 	Can you do debugging using Code???
 	Does Atom TypeScript support that now???
 
 Read up on Flow
-	Is there any editor support???
 
+    http://www.2ality.com/2014/10/typed-javascript.html
 
+    https://github.com/Microsoft/TypeScript/issues/1265
 
+    http://www.reddit.com/r/javascript/comments/2mrngf/what_is_the_difference_between_recently_announced/
 
-http://www.2ality.com/2014/10/typed-javascript.html
+    http://www.reddit.com/r/javascript/comments/2n620n/typescript_atscript_flow_closure_which_one/
 
-https://github.com/Microsoft/TypeScript/issues/1265
-
-http://www.reddit.com/r/javascript/comments/2mrngf/what_is_the_difference_between_recently_announced/
-
-http://www.reddit.com/r/javascript/comments/2n620n/typescript_atscript_flow_closure_which_one/
-
-http://www.infoq.com/news/2014/11/facebook-flow-javascript
+    http://www.infoq.com/news/2014/11/facebook-flow-javascript

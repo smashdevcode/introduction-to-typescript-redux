@@ -1,7 +1,7 @@
 
 // Basic concepts demos
 
-// JavaScript works as you expected it to
+// JavaScript works as you expect it to
 // 1) Show that the JavaScript basically remains unchanged
 
 // function SayHello() {
@@ -86,7 +86,7 @@
 // 1) Show how to define an interface
 // 2) Show that interfaces evaporate
 // 3) Show how to use an interface to describe object literals
-// 4) show how to extend an interface
+// 4) Show how to extend an interface
 
 // interface MyInterface {
 //     number1: number;
