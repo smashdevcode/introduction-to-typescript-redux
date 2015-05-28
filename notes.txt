@@ -1,9 +1,6 @@
 
 JavaScript Admirers Presentation
 
-Information about d.ts files???
-    Do I want to cover the command line tool???
-
 Include preview of Visual Studio Code???
 	Can you do debugging using Code???
 	Does Atom TypeScript support that now???

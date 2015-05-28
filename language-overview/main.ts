@@ -5,6 +5,7 @@
 
 // JavaScript works as you expect it to
 // 1) Show that the JavaScript basically remains unchanged
+// 2) Show that the compiler is already providing some benefit
 
 // function add(number1, number2) {
 //     return number1 + number2;
@@ -65,7 +66,7 @@
 // Functions
 // 1) Show how to specify the signature of the function
 // 2) Show how to type callback functions
-// 3) Show arrow functions
+// 3) Show arrow functions (shorter syntax, lexical 'this')
 
 // var myFunctionDefinition: (number1: number, number2: number) => number;
 //
