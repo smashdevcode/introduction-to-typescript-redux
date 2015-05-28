@@ -1,14 +1,19 @@
 
-// Basic concepts demos
+// Language Overview Demos
+
+
 
 // JavaScript works as you expect it to
 // 1) Show that the JavaScript basically remains unchanged
 
-// function SayHello() {
-//     console.log('Hello');
+// function add(number1, number2) {
+//     return number1 + number2;
 // }
 //
-// SayHello();
+// var addResult = add(1, 2);
+// console.log(addResult);
+
+
 
 // TypeScript "any" type allows JavaScript dynamic typing to continue to work
 // 1) Change parameter to an unexpected type
@@ -16,15 +21,18 @@
 // 3) Notice that type information evaporates
 // 4) Notice that the return type is inferred
 
-// function Add(number1: number, number2: number) {
+// function add(number1: number, number2: number) {
 //     return number1 + number2;
 // }
 //
-// var addResult = Add(1, 2);
+// var addResult = add(1, 2);
 // console.log(addResult);
+
+
 
 // Type Inference
 // 1) Show how type inference works
+// 2) Show how you can mix types in an array
 
 // var myBooleanVar = false;
 // var myNumberVar = 0;
@@ -34,6 +42,25 @@
 //
 // var myNumberArrayVar = [1, 2, 3];
 // var myStringArrayVar = ['', '', ''];
+
+
+
+// Union Types
+// 1) Show how you can specify more than one type
+// 2) Show how you can use type guards to execute different code paths
+
+// function unionTypesFunction(value: string|string[]) {
+//     if (typeof value === 'string') {
+//         console.log(value.length);
+//     } else {
+//         console.log(value.length);
+//     }
+// }
+//
+// unionTypesFunction('hello');
+// unionTypesFunction(['a','b']);
+
+
 
 // Functions
 // 1) Show how to specify the signature of the function
@@ -55,20 +82,7 @@
 //     return number1 + number2;
 // };
 
-// Union Types
-// 1) Show how you can specify more than one type
-// 2) Show how you can use type guards to execute different code paths
 
-// function unionTypesFunction(value: string|string[]) {
-//     if (typeof value === 'string') {
-//         console.log(value.length);
-//     } else {
-//         console.log(value.length);
-//     }
-// }
-//
-// unionTypesFunction('hello');
-// unionTypesFunction(['a','b']);
 
 // Ambient Declarations
 // 1) Show how to reference a variable that exists in the global namespace
@@ -81,6 +95,8 @@
 // /// <reference path="lodash.d.ts"/>
 //
 // var maxNumber = _.max([1, 2, 3]);
+
+
 
 // Interfaces
 // 1) Show how to define an interface
@@ -112,6 +128,8 @@
 // })
 //
 // console.log(result);
+
+
 
 // Classes
 // 1) Show how to define a class
@@ -156,6 +174,8 @@
 // console.log(myExtendedClass.number2);
 // console.log(myExtendedClass.number3);
 // console.log(myExtendedClass.add());
+
+
 
 // Modules
 // 1) Show internal module

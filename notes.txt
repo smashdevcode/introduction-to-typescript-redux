@@ -1,33 +1,16 @@
 
-
-
-
 JavaScript Admirers Presentation
 
-
-
-
-Split apart language overview into separate files???
-    If yes... then update the index.html file with additional includes
-
-Review language overview code examples
-	How much is the right amount of content???
-
-
-
+Information about d.ts files???
+    Do I want to cover the command line tool???
 
 Include preview of Visual Studio Code???
 	Can you do debugging using Code???
 	Does Atom TypeScript support that now???
 
 Read up on Flow
-
     http://www.2ality.com/2014/10/typed-javascript.html
-
     https://github.com/Microsoft/TypeScript/issues/1265
-
     http://www.reddit.com/r/javascript/comments/2mrngf/what_is_the_difference_between_recently_announced/
-
     http://www.reddit.com/r/javascript/comments/2n620n/typescript_atscript_flow_closure_which_one/
-
     http://www.infoq.com/news/2014/11/facebook-flow-javascript

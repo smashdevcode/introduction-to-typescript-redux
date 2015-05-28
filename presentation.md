@@ -13,14 +13,14 @@
 
 # Agenda
 
-* Language Overview - Part 1 (demo)
+* Language Overview (demo)
 * TypeScript Overview (8 slides)
-* Language Overview - Part 2 (demo)
+* Tooling Overview (demo)
 * Wrap Up (3 slides)
 
 ---
 
-# Language Overview - Part 1
+# Language Overview
 
 ^ Demo: Show basic language concepts from Atom
 
@@ -49,7 +49,7 @@
 * Variable type is interpreted at runtime
 * Developer can provide less information
 * Bugs are often discovered at runtime
-* Reliance on unit testing to ensure code quality
+* Reliance on unit testing to improve code quality
 
 ---
 
@@ -69,7 +69,7 @@
 * Sublime Text
 * WebStorm
 * Visual Studio
-* NEW - Visual Studio Code (available on Linux and Mac OS X)
+* NEW - Visual Studio Code (Linux and Mac OS X)
 * And others (like Emacs and Vi)
 
 ---
@@ -85,7 +85,7 @@
 
 # Why Do We Care?
 
-* TypeScript is just a tool... use it, or don't
+* TypeScript is just a tool
  * Increased productivity = happier developers
  * Higher quality solutions = happier users
 * TypeScript is not for every project
@@ -95,17 +95,16 @@
 
 # Flow
 
-* Flow looks great
+* Flow looks interesting
  * More aggressive than TS with implicit typing
 * See Jesse's presentation
- * [Flow is the JavaScript type checker I have been waiting for](http://sitr.us/2014/11/21/flow-is-the-javascript-type-checker-i-have-been-waiting-for.html)
-* For some Flow will be a better choice than TS (or vice versa)
+ * ["Flow is the JavaScript type checker I have been waiting for"](http://sitr.us/2014/11/21/flow-is-the-javascript-type-checker-i-have-been-waiting-for.html)
 
 ---
 
-# Language Overview - Part 2
+# Tooling Overview
 
-^ Demo: Show basic language concepts from Atom
+^ Demo: Show Atom TypeScript features
 
 ---
 
